@@ -1,0 +1,5 @@
+https://github.com/microsoftdocs/ml-basics
+use module 05 including:
+- Deep Neural Networks
+- Convolutional Neural Networks
+- Transfer Learning
